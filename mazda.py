@@ -1,3 +1,2 @@
 def print():
-  print('mazda')
-  print('Sajjad')
+  print('Mazda')
