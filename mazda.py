@@ -1,1 +1,2 @@
-
+def print():
+  print('mazda')
